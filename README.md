@@ -6,7 +6,7 @@ I'm **Adams Okemwa**, a tech enthusiast diving deep into the worlds of **Blockch
 
 ## 👀 About Me
 
-- 🌱 Currently learning **Python**, **JavaScript**, and **Solidity** to build impactful solutions in blockchain and AI.
+- 🌱 Currently learning **Python**, **JavaScript**, and **Solidity** to build impactful solutions using blockchain and AI.
 - 💞️ Eager to collaborate on projects involving **smart contract development**, decentralized applications (dApps), and innovative AI systems.
 - ⚡ Fun fact: I’m passionate about integrating sustainability into technology, making the future greener, one line of code at a time.
 
